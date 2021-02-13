@@ -243,3 +243,7 @@ wyHouseOfRep <-
 
 wyHouseOfRep[, c(6, 1:5, 7:20)] %>%
   view()
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
